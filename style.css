@@ -1,0 +1,17 @@
+#main-header {
+	background-color: #0a0850;
+	text-align: center;
+	border: 5px rgb(238, 147, 11) solid;
+	padding: 0.5em 0.5em;
+	margin-left: 20vw;
+	width: 50vw;
+	font-size: 50px;
+}
+#sub-header {
+	font-style: italic;
+}
+p.left {
+	background-color: yellow;
+	margin-right: 50vw;
+	height: 5vw;
+}
